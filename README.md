@@ -11,7 +11,7 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 Connect With Me
 
-"LinkedIn" (https://www.linkedin.com/in/aniket-singh-513288347)
+[LinkedIn](https://www.linkedin.com/in/aniket-singh-513288347)
 
 Languages & Tools
 
@@ -33,6 +33,6 @@ Featured Projects
 
 GitHub Stats
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=aniket2910-abc&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniket2910-abc&show_icons=true&theme=tokyonight)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=aniket2910-abc&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket2910-abc&layout=compact&theme=tokyonight)
