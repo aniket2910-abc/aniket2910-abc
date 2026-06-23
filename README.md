@@ -14,6 +14,9 @@ Connect With Me
 [LinkedIn](https://www.linkedin.com/in/aniket-singh-513288347)
 
 Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql" />
+</p>
 
 Python • HTML • CSS • JavaScript • Git • GitHub • AI/ML
 
@@ -36,3 +39,4 @@ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniket2910-abc&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket2910-abc&layout=compact&theme=tokyonight)
+
