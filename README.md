@@ -44,3 +44,7 @@ GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket2910-abc&layout=compact&theme=tokyonight)
 
+
+## 🐍 Contribution Snake
+
+![Snake Animation](https://github.com/aniket2910-abc/aniket2910-abc/blob/output/github-contribution-grid-snake.svg)
