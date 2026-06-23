@@ -11,7 +11,11 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/aniket-singh-513288347)
+<p>
+<a href="https://www.linkedin.com/in/aniket-singh-513288347">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
 
 Languages & Tools
 <p>
