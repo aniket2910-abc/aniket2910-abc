@@ -28,6 +28,8 @@ Python • HTML • CSS • JavaScript • Git • GitHub • AI/ML
 
 Featured Projects
 
+🚀DocMind-AI
+
 🚀 CampusAI
 
 🚀 AttendX Attendance System
